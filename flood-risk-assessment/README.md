@@ -95,7 +95,7 @@ A detailed explanation of the workflow is available in [methodology.md](methodol
 
 ## Flood Susceptibility Model
 
-![Flood Susceptibility Map](images/11-flood-susceptibility-map.jpg)
+![Flood Susceptibility Map](11-flood-susceptibility-map.png)
 
 The final flood susceptibility map identifies areas with varying levels of flood risk across Gujarat and demonstrates the integration of multiple environmental variables within a GIS-based decision-support framework.
 
