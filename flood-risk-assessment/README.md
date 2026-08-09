@@ -95,7 +95,7 @@ A detailed explanation of the workflow is available in [methodology.md](methodol
 
 ## Flood Susceptibility Model
 
-![Flood Susceptibility Map](11-flood-susceptibility-map.png)
+![Flood Susceptibility Map](Images/11-flood-susceptibility-map.png)
 
 The final flood susceptibility map identifies areas with varying levels of flood risk across Gujarat and demonstrates the integration of multiple environmental variables within a GIS-based decision-support framework.
 
@@ -140,5 +140,5 @@ https://technicalgeography.org/index.php/on-line-first/533-19_kadapa
 Indian Institute of Technology Gandhinagar
 
 **Research Interests:**
-GIS • Remote Sensing • Spatial Analysis • Environmental Modelling • Disaster Risk Assessment
+GIS • Remote Sensing • Spatial Analysis • Environmental Modelling • Climate and Disaster Risk Assessment
 
