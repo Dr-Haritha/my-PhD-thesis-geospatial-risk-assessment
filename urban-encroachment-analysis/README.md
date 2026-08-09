@@ -1,1 +1,1 @@
-
+This project evaluates urban expansion and land-use change in Gujarat using GIS and Remote Sensing techniques. Spatial overlay, proximity analysis, and land-use classification were used to identify archaeological sites affected by expanding built-up areas and infrastructure development.
