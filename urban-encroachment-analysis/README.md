@@ -41,6 +41,8 @@ The analysis was carried out using GIS and Remote Sensing techniques including:
 - Encroachment Assessment
 - Spatial Statistics
 
+For a detailed description of the workflow, see **[methodology.md](methodology.md)**.
+
 ---
 
 ## Land Use Land Cover (LULC) Classification
