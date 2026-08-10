@@ -36,40 +36,70 @@ The assessment was conducted using the Revised Universal Soil Loss Equation (RUS
 
 ```text
 A = R × K × LS × C × P
+```
 
 where:
 
-A = Average Annual Soil Loss
-R = Rainfall Erosivity Factor
-K = Soil Erodibility Factor
-LS = Slope Length and Steepness Factor
-C = Crop Management Factor
-P = Conservation Practice Factor
+- A = Average Annual Soil Loss
+- R = Rainfall Erosivity Factor
+- K = Soil Erodibility Factor
+- LS = Slope Length and Steepness Factor
+- C = Crop Management Factor
+- P = Conservation Practice Factor
 
 The factors were generated using GIS and Remote Sensing datasets and integrated within ArcGIS to estimate annual soil loss across Gujarat.
 
-📖 A detailed explanation of the methodology, formulas, data sources, GIS workflow, and model validation is available in methodology.md.
+📖 A detailed explanation of the methodology, formulas, data sources, GIS workflow, and model validation is available in [methodology.md](methodology.md).
+
+---
 
 ## RUSLE Factors
 
+### Rainfall Erosivity Factor (R)
+
 ![Rainfall Erosivity Factor (R)](Images/01-r-factor.png)
+
+---
+
+### Soil Erodibility Factor (K)
 
 ![Soil Erodibility Factor (K)](Images/02-k-factor.png)
 
+---
+
+### Slope Length and Steepness Factor (LS)
+
 ![Slope Length and Steepness Factor (LS)](Images/03-ls-factor.png)
+
+---
+
+### Normalized Difference Vegetation Index (NDVI)
 
 ![Normalized Difference Vegetation Index (NDVI)](Images/04-ndvi.png)
 
+---
+
+### Crop Management Factor (C)
+
 ![Crop Management Factor (C)](Images/05-c-factor.png)
+
+---
+
+### Conservation Practice Factor (P)
 
 ![Conservation Practice Factor (P)](Images/06-p-factor.png)
 
+---
+
+## Soil Erosion Risk Assessment
 
 ### Average Annual Soil Loss Map
 
 ![Soil Erosion Risk Assessment](Images/07-soil-loss-map.png)
 
 The final soil erosion map identifies areas with varying levels of erosion susceptibility across Gujarat and demonstrates the integration of climatic, topographic, soil, and vegetation factors within a GIS-based environmental modelling framework.
+
+---
 
 ## Applications
 
@@ -82,6 +112,8 @@ The final soil erosion map identifies areas with varying levels of erosion susce
 - Natural Resource Management
 - Heritage Landscape Risk Assessment
 
+---
+
 ## Tools and Technologies
 
 - ArcGIS Pro
@@ -93,21 +125,25 @@ The final soil erosion map identifies areas with varying levels of erosion susce
 - Spatial Analysis
 - Geospatial Modelling
 
+---
+
 ## Related Research
 
 This project forms part of my doctoral research on assessing natural and anthropogenic risks affecting cultural heritage landscapes through GIS, Remote Sensing, and spatial risk assessment approaches.
 
-Kadapa, H. (2026). Hazards, Risks, and Conservation Measures: A Heritage Impact Assessment Geodatabase of Indus Civilization and Chalcolithic Sites of Gujarat, India. In: Furferi, R., Governi, L., Volpe, Y., Gherardini, F., Seymour, K. (eds) The Future of Heritage Science and Technologies II. Florence Heri-Tech 2024. Lecture Notes in Mechanical Engineering. Springer, Cham.
+**Kadapa, H. (2026).** *Hazards, Risks, and Conservation Measures: A Heritage Impact Assessment Geodatabase of Indus Civilization and Chalcolithic Sites of Gujarat, India.* In: Furferi, R., Governi, L., Volpe, Y., Gherardini, F., Seymour, K. (eds) *The Future of Heritage Science and Technologies II*. Florence Heri-Tech 2024. Lecture Notes in Mechanical Engineering. Springer, Cham.
 
 📖 Read the publication:
 
 https://doi.org/10.1007/978-3-031-98379-5_30
 
+---
+
 ## Author
 
-Haritha Kadapa, PhD
+**Haritha Kadapa, PhD**
+
 Indian Institute of Technology Gandhinagar
 
-Research Interests:
+**Research Interests:**  
 GIS • Remote Sensing • Spatial Analysis • Environmental Modelling • Soil Erosion Assessment • Disaster Risk Assessment • Geospatial Decision Support Systems
-
