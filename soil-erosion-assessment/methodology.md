@@ -78,13 +78,13 @@ For this study, the Global Rainfall Erosivity (GlobalR) dataset was used.
 The rainfall erosivity factor is calculated as:
 
 ```text
-R = Σ Σ (EI30)k
+R = ∑j=1ⁿ ∑k=1ᵐʲ (EI30)k
 ```
 
 Where:
 
 ```text
-EI30 = ( Σ er vr ) I30
+EI30 = (∑r=1ᵏ ervr) I30
 ```
 
 Where:
@@ -93,11 +93,12 @@ Where:
 - er = Unit rainfall energy (MJ ha⁻¹ mm⁻¹)
 - vr = Rainfall volume during a rainfall event (mm)
 - I30 = Maximum 30-minute rainfall intensity (mm h⁻¹)
+- ir = rainfall intensity during the time interval (mm h⁻¹)
 
 The unit rainfall energy is calculated as:
 
 ```text
-er = 0.29 [1 − 0.72 e(-0.05ir)]
+er = 0.29 [1 − 0.72e(-0.05ir)]
 ```
 
 Where:
