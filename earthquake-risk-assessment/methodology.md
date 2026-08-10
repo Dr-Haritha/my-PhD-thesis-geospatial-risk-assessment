@@ -56,7 +56,7 @@ Higher scores indicate greater earthquake hazard.
 
 ## Earthquake Hazard Proximity
 
-![Earthquake Hazard Proximity](images/02-earthquake-hazard-proximity.png)
+![Earthquake Hazard Proximity](Images/02-earthquake-hazard-proximity.png)
 
 ---
 
