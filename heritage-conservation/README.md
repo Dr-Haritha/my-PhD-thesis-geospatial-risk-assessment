@@ -8,7 +8,7 @@ This section presents a risk-informed conservation framework developed as part o
 
 Rather than treating hazards independently, the approach identifies sites exposed to multiple threats and prioritizes them for monitoring, mitigation, emergency preparedness, and conservation intervention.
 
-For a detailed explanation of the methodology, risk assessment framework, field validation, conservation strategies, and geodatabase development, please refer to **methodology.md**.
+For a detailed explanation of the methodology, risk assessment framework, field validation, conservation strategies, and geodatabase development, please refer to [methodology.md](methodology.md).
 
 ---
 
