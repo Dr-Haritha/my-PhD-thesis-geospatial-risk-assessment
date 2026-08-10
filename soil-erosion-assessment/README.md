@@ -145,5 +145,6 @@ https://doi.org/10.1007/978-3-031-98379-5_30
 
 Indian Institute of Technology Gandhinagar
 
-**Research Interests:**  
+**Research Interests:**
+
 GIS • Remote Sensing • Spatial Analysis • Environmental Modelling • Soil Erosion Assessment • Disaster Risk Assessment • Geospatial Decision Support Systems
